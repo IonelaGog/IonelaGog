@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IonelaGog
 - 👀 I’m interested in building new experiences both personally and professionally
 - 🌱 I’m currently learning the insides and outsides of Embedded Software Programming and Control Engineering  
-- 💞️ I’m looking to collaborate on projects that spark my interest help me hone my craft and develop long term
+- 💞️ I’m looking to collaborate on projects that spark my interest, help me hone my craft and develop long term
 - 📫 How to reach me gog_ionela@yahoo.com
 
 <!---
